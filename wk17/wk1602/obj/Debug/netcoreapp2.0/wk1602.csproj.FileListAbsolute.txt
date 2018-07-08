@@ -1,0 +1,10 @@
+C:\Users\User\Documents\wk16\wk1602\bin\Debug\netcoreapp2.0\wk1602.deps.json
+C:\Users\User\Documents\wk16\wk1602\bin\Debug\netcoreapp2.0\wk1602.runtimeconfig.json
+C:\Users\User\Documents\wk16\wk1602\bin\Debug\netcoreapp2.0\wk1602.runtimeconfig.dev.json
+C:\Users\User\Documents\wk16\wk1602\bin\Debug\netcoreapp2.0\wk1602.dll
+C:\Users\User\Documents\wk16\wk1602\bin\Debug\netcoreapp2.0\wk1602.pdb
+C:\Users\User\Documents\wk16\wk1602\obj\Debug\netcoreapp2.0\wk1602.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\wk16\wk1602\obj\Debug\netcoreapp2.0\wk1602.AssemblyInfoInputs.cache
+C:\Users\User\Documents\wk16\wk1602\obj\Debug\netcoreapp2.0\wk1602.AssemblyInfo.cs
+C:\Users\User\Documents\wk16\wk1602\obj\Debug\netcoreapp2.0\wk1602.dll
+C:\Users\User\Documents\wk16\wk1602\obj\Debug\netcoreapp2.0\wk1602.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="wk51.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:local="clr-namespace:wk51"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+        <Grid Margin="225 0 225 275">
+            <k:KinectUserViewer k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" Name="sensorChooserUi" />
+        </Grid>
+        <k:KinectRegion x:Name="kinectRegion">
+            <Grid x:Name="kinectRegionGrid" Margin="10,100,10,20">
+                <k:KinectScrollViewer Name="scrollViewer" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled">
+                    <WrapPanel VerticalAlignment="Center" x:Name="wrapPanel" Orientation="Vertical" k:KinectTileButton.Click="wrapPanel_Click"  >
+                        <!-- items for design layout.  They will be replaced at runtime. -->
+                       
+                    </WrapPanel>
+                </k:KinectScrollViewer>
+                
+            </Grid>
+        </k:KinectRegion>
+    </Grid>
+</Window>

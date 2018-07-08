@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\wk9\wk911\bin\Debug\wk911.exe.config
+C:\Users\User\source\repos\wk9\wk911\bin\Debug\wk911.exe
+C:\Users\User\source\repos\wk9\wk911\bin\Debug\wk911.pdb
+C:\Users\User\source\repos\wk9\wk911\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\source\repos\wk9\wk911\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\source\repos\wk9\wk911\obj\Debug\wk911.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\wk9\wk911\obj\Debug\wk911.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wk9\wk911\obj\Debug\wk911.exe
+C:\Users\User\source\repos\wk9\wk911\obj\Debug\wk911.pdb

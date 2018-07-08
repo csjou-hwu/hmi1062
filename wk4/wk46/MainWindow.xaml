@@ -1,0 +1,34 @@
+﻿<Window x:Class="wk46.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wk46"
+        xmlns:h="http://helix-toolkit.org/wpf"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <k:KinectRegion Grid.Row="1" x:Name="kinectRegion">
+            <Grid x:Name="kinectRegionGrid" Margin="10,20,10,20">
+                <WrapPanel VerticalAlignment="Center" x:Name="wrapPanel" Orientation="Vertical" k:KinectTileButton.Click="KinectTileButtonClick">
+                    <k:KinectTileButton Label="1"/>
+                    <k:KinectTileButton Label="2"/>
+                </WrapPanel>
+            </Grid>
+        </k:KinectRegion>
+        <h:HelixViewport3D>
+            <h:DefaultLights/>
+            <h:Teapot>
+                <h:Teapot.Transform>
+                    <RotateTransform3D>
+                        <RotateTransform3D.Rotation>
+                            <AxisAngleRotation3D x:Name="Ro" Axis="0 1 0" Angle="45">
+                            </AxisAngleRotation3D>
+                        </RotateTransform3D.Rotation>
+                    </RotateTransform3D>
+                </h:Teapot.Transform>
+            </h:Teapot>
+        </h:HelixViewport3D>
+    </Grid>
+</Window>

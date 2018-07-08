@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\wk3\wk32\bin\Debug\wk32.exe.config
+C:\Users\User\source\repos\wk3\wk32\bin\Debug\wk32.exe
+C:\Users\User\source\repos\wk3\wk32\bin\Debug\wk32.pdb
+C:\Users\User\source\repos\wk3\wk32\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\source\repos\wk3\wk32\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\source\repos\wk3\wk32\obj\Debug\wk32.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\wk3\wk32\obj\Debug\wk32.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wk3\wk32\obj\Debug\wk32.exe
+C:\Users\User\source\repos\wk3\wk32\obj\Debug\wk32.pdb

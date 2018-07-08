@@ -1,0 +1,4 @@
+wk21.MainActivity, wk21;md5eb3f7d95c8fef20e82c2b4368045cce6.MainActivity
+wk21.MainActivity, wk21, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb3f7d95c8fef20e82c2b4368045cce6.MainActivity
+wk21.MainActivity;md5eb3f7d95c8fef20e82c2b4368045cce6.MainActivity
+wk21.MainActivity;md5eb3f7d95c8fef20e82c2b4368045cce6.MainActivity

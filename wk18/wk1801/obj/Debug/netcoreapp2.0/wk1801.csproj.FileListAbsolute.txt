@@ -1,0 +1,10 @@
+C:\Users\User\Documents\wk18\wk1801\bin\Debug\netcoreapp2.0\wk1801.deps.json
+C:\Users\User\Documents\wk18\wk1801\bin\Debug\netcoreapp2.0\wk1801.runtimeconfig.json
+C:\Users\User\Documents\wk18\wk1801\bin\Debug\netcoreapp2.0\wk1801.runtimeconfig.dev.json
+C:\Users\User\Documents\wk18\wk1801\bin\Debug\netcoreapp2.0\wk1801.dll
+C:\Users\User\Documents\wk18\wk1801\bin\Debug\netcoreapp2.0\wk1801.pdb
+C:\Users\User\Documents\wk18\wk1801\obj\Debug\netcoreapp2.0\wk1801.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\wk18\wk1801\obj\Debug\netcoreapp2.0\wk1801.AssemblyInfoInputs.cache
+C:\Users\User\Documents\wk18\wk1801\obj\Debug\netcoreapp2.0\wk1801.AssemblyInfo.cs
+C:\Users\User\Documents\wk18\wk1801\obj\Debug\netcoreapp2.0\wk1801.dll
+C:\Users\User\Documents\wk18\wk1801\obj\Debug\netcoreapp2.0\wk1801.pdb

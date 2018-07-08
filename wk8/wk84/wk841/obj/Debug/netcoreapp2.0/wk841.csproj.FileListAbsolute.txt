@@ -1,0 +1,10 @@
+C:\Users\User\source\wk84\wk841\bin\Debug\netcoreapp2.0\wk841.deps.json
+C:\Users\User\source\wk84\wk841\bin\Debug\netcoreapp2.0\wk841.runtimeconfig.json
+C:\Users\User\source\wk84\wk841\bin\Debug\netcoreapp2.0\wk841.runtimeconfig.dev.json
+C:\Users\User\source\wk84\wk841\bin\Debug\netcoreapp2.0\wk841.dll
+C:\Users\User\source\wk84\wk841\bin\Debug\netcoreapp2.0\wk841.pdb
+C:\Users\User\source\wk84\wk841\obj\Debug\netcoreapp2.0\wk841.csproj.CoreCompileInputs.cache
+C:\Users\User\source\wk84\wk841\obj\Debug\netcoreapp2.0\wk841.AssemblyInfoInputs.cache
+C:\Users\User\source\wk84\wk841\obj\Debug\netcoreapp2.0\wk841.AssemblyInfo.cs
+C:\Users\User\source\wk84\wk841\obj\Debug\netcoreapp2.0\wk841.dll
+C:\Users\User\source\wk84\wk841\obj\Debug\netcoreapp2.0\wk841.pdb

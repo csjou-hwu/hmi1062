@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\User\source\repos\wk4\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
