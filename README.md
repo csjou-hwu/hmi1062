@@ -74,3 +74,31 @@ Use nuget browser <br/>
 #### 8-1-1 Demo sample
 #### 8-1-2 MouseWheel 事件，改變背景圖片
 ### 8-2 Kinect background remove + Helixtoolkit
+
+### 8-3 HTML (aspnet core sdk)
+#### 8-3-1 Webserver
+1. VS2017 CMD <br/>
+2. dotnet --version <br/>
+3. dotnet new web -o wk83 <br/>
+4. cd wk83<br/>
+5. dotnet run<br/>
+#### 8-3-2 Razor template (C# Available)
+1. VS 2017 cmd <br/>
+2. md wk84 <br/>
+3. cd wk84 <br/>
+4. dotnet new razor -o wk841 <br/>
+5. cd wk841 <br/>
+6. Program.cs <br/>
+ .UseUrls("http://192.168.225.170:5050") <br/>
+7. dotnet run  <br/>
+
+#### 8-3-2 a-frame.io
+
+## wk9 整合測驗
+### 9-1 請用整合聲音控制[Kinect Audio Control (簡化版)]與Helixtoolkit 3D模型，用聲音方位改變事件，切換左右餐廳(bar.obj/tables.obj)展示。
+### 9-2 請用參考手勢控制(Kinect Controls Basics -WPF)範例，建立必勝客點餐系統(自行選取5個披薩為例)。
+### 9-3 請用整合人像去背(Kinect Background removal)與Helixtoolkit 3D模型(newsdesk2.obj)，建立新聞播報應用程式。
+### 9-4 請使用VS2017建立網站，參考https://aframe.io/docs/0.8.0/primitives/a-obj-model.html，建立tables.obj虛擬實境網頁。
+### 9-5 請使用ASP.NET Core SDK建立網站，參考https://aframe.io/docs/0.8.0/primitives/a-obj-model.html，建立tables.obj虛擬實境網頁，以個人手機測試此網頁
+
+
